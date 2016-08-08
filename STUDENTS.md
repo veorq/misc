@@ -236,7 +236,7 @@ in order to be shared, if needed, with non-French speakers.
 * David Rock's book [*Your brain at
   work*](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295/), subtitled
   *Strategies for Overcoming Distraction, Regaining Focus, and Working
-  Smarter All Day Long*—says it all. Ask me if you want to PDF.
+  Smarter All Day Long*. Ask me if you want to PDF.
 
 * Richard Hamming's brilliant artcle [*You and your
   research*](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf).
