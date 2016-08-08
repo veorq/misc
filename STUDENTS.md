@@ -232,6 +232,10 @@ IRC can be in French. Long emails, however, should be written in English
 in order to be shared, if needed, with non-French speakers.
 
 
+### OPSEC
+
+Use Signal. Use Tor. (© @thegrugq)
+
 ## References
 
 ### Readings
