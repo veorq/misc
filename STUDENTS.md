@@ -274,9 +274,6 @@ founder of Southwest Airlines
 Blame no one. Expect nothing. Do something. —Bill Parcells, football
 coach
 
-The most successful people are those who are good at plan B. —James
-Yorke, mathematician
-
 When a debater’s point is not impressive, he brings forth many
 arguments. —Talmud
 
