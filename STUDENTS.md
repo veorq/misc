@@ -234,7 +234,8 @@ in order to be shared, if needed, with non-French speakers.
 
 ### OPSEC
 
-Use Signal. Use Tor. (© @thegrugq)
+We may work with sensitive information. So when needed, use Signal, use
+Tor (© [@thegrugq](https://medium.com/@thegrugq).)
 
 ## References
 
