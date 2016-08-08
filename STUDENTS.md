@@ -26,7 +26,7 @@ while you're coding.
 ### Intellectual rigor
 
 I expect rigor and an analytical mindset. For example, you should be
-able to define precisely a problem that you're trying to solve and you
+able to define precisely a problem that you're trying to solve and to
 determine what information you need to solve that problem, and whether
 you have data at your disposal that carries that information. 
 
