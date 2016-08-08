@@ -31,7 +31,7 @@ determine what information you need to solve that problem, and whether
 you have data at your disposal that carries that information. 
 
 If you make a claim not supported by any data, you should be able to define the
-[premises](https://en.wikipedia.org/wiki/List_of_cognitive_biases) upon
+[premises](http://www.csuchico.edu/phil/sdobra_mat/claimlist.html) upon
 which your claim stands. Also, you should be able to detect bogus
 reasoning and fallacious claims, and you should know the main [cognitive
 biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases).
