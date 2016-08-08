@@ -198,7 +198,7 @@ To communicate, we'll probably use Slack. It's way more convenient than
 email for the kind of project we'll do. 
 
 
-### Code
+### Coding
 
 The code you'll write should not only work/compile, it should also be
 safe and follow the best practices and coding conventions for the
@@ -223,13 +223,21 @@ follow best practices as long as it makes sense. For example, working on
 dedicated branches to implement new features and avoid committing to
 master.
 
+### Writing
 
-### Language
-
-English; be it reports, comments in your code, or variable names. If
+Write in English; be it reports, comments in your code, or variable names. If
 like me your native language is French, online discussions on Slack or
 IRC can be in French. Long emails, however, should be written in English
 in order to be shared, if needed, with non-French speakers.
+
+The learn the basics of good writing, read [*The Elements of
+Style*](http://www.crockford.com/wrrrld/style.html). It's a quick and
+easy read, yet a goldmine.
+To further improve your English, read William Zinsser's [*On
+Writing
+Well*](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548/),
+another classic. You'll find a PDF
+[online](http://www.brynmawr.edu/math/people/anmyers/ESem/on-writing-well.pdf).
 
 
 ### OPSEC
@@ -237,23 +245,24 @@ in order to be shared, if needed, with non-French speakers.
 We may work with sensitive information. So when needed, use Signal, use
 Tor (© [@thegrugq](https://medium.com/@thegrugq).)
 
-## References
+
+## More references
 
 ### Readings
 
-* David Rock's book [*Your brain at
-  work*](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295/), subtitled
+* David Rock's book [*Your Brain at
+  Work*](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295/), subtitled
   *Strategies for Overcoming Distraction, Regaining Focus, and Working
   Smarter All Day Long*. Ask me if you want to PDF.
 
-* Richard Hamming's brilliant article [*You and your
-  research*](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf).
+* Richard Hamming's brilliant article [*You and Your
+  Research*](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf).
 
 * Moxie Marlinspike's [career advice
   post](https://moxie.org/blog/career-advice/).
 
-* CIA's Richard Heuer's classic book [*Psychology of intelligence
-  analysis*](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis).
+* CIA's Richard Heuer's classic book [*Psychology of Intelligence
+  Analysis*](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis).
 
 
 ### Quotes
