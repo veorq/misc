@@ -96,7 +96,7 @@ inspiring description of the creativity process.
 "Don’t bullshit yourself or others. Apply brutal honesty and
 transparency to everything you do," to quote from
 [GyShiDo](http://gyshido.com/). Equip yourself with a good bullshit
-detector, you'll need it if you work in cybersecurity.
+detector, you'll need it if you work in information security.
 Bullshit signs in information security are for example:
 
 * The abuse of the work "cyber."
@@ -113,8 +113,10 @@ Bullshit signs in information security are for example:
 * In research papers, signs that correlate positively with bullshit
   include: an unknown/low-tier university (conversely, papers from
   places such as MIT or Stanford are very rarely BS), a paper written in
-  Word rather than LaTeX, a low-tier jounral or conference (or no
-  peer-review at all).
+  Word rather than LaTeX, a low-tier journal or conference (or no
+  peer-review at all). Some of the points of the [Crackpot
+  Index](http://math.ucr.edu/home/baez/crackpot.html) apply to
+  information security as well as to physics.
 
 If you're not sure, ask me. To learn more about bullshit, read [this
 paper](http://journal.sjdm.org/15/15923a/jdm15923a.pdf).  
