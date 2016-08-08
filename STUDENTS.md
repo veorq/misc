@@ -19,7 +19,7 @@ something's wrong :)
 
 In practice, commitment also means *focus*. You should concentrate on
 the task that you're on and minimize any distractions. For example,
-there shouldn't be Facebook notifications popping-up on your screen
+there shouldn't be Facebook notifications popping up on your screen
 while you're coding.
 
 
