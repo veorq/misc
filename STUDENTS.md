@@ -245,7 +245,7 @@ in order to be shared, if needed, with non-French speakers.
   post](https://moxie.org/blog/career-advice/).
 
 * CIA's Richard Heuer's classic book [*Psychology of intelligence
-  analysis*](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis)
+  analysis*](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis).
 
 
 ### Quotes
@@ -263,6 +263,6 @@ Yorke, mathematician
 When a debater’s point is not impressive, he brings forth many
 arguments. —Talmud
 
-Planning is everything, the plan is nothing —Dwight D. Eisenhower,
-planning expert
+Planning is everything, the plan is nothing. —Dwight D. Eisenhower,
+expert planner 
 
