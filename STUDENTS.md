@@ -1,80 +1,267 @@
-
 # Guide for students working with me
 
-You are a student or intern working with me for a limited-time project?
-Keep reading, this is important. 
-
+You are a student doing or considering doing a project with me?  Keep
+reading, this document explains what I'll expect from you, what you
+can expect from me, and inspiring references. I wish I got this kind of
+document when I was a student, so I hope it will be useful to you.
 
 ## What I expect from you
 
-* **Commitment**: I expect an interest and attachment for the project
-  you're working on, and dedication to deliver quality results. It's
-  more important for you than for me, since this project will in part
-  determine the rest of your career/life. More generally, you should be
-  in love with the field you've chosen to work in and put all your
-  energy into it. If you're not excited about working on this project
-  every morning or if you look forward the end of the day to go have
-  "fun" elsewhere, then something's wrong.
+### Commitment
 
-* **Rigor**: I expect intellectual rigor and an analytical mindset. If
-  you're trying to solve a problem
+I expect an interest and attachment for the project you're working on,
+and dedication to deliver quality results. This is more important for
+you than for me, since this project will in part determine the rest of
+your career, and life. If you aren't excited about it every morning or
+if you look forward the end of the day to go have "fun" elsewhere, then
+something's wrong :)
 
-For
-  example, if you make a claim you should be able to tell the premises
-upon that claim stands.
+In practice, commitment also means *focus*. You should concentrate on
+the task that you're on and minimize any distractions. For example,
+there shouldn't be Facebook notifications popping-up on your screen
+while you're coding.
 
-* **Organization**: 
 
-* **Focus**: no multi-task / distraction, facebook in the background
+### Intellectual rigor
 
-* **Independence**: We're all grown ups
+I expect rigor and an analytical mindset. For example, you should be
+able to define precisely a problem that you're trying to solve and you
+determine what information you need to solve that problem, and whether
+you have data at your disposal that carries that information. 
 
-* **Initiative**: bring your own ideas, challenge mine
+If you make a claim not supported by any data, you should be able to define the
+[premises](https://en.wikipedia.org/wiki/List_of_cognitive_biases) upon
+which your claim stands. Also, you should be able to detect bogus
+reasoning and fallacious claims, and you should know the main [cognitive
+biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases).
+
+When data is available, use it to make precise fact-based claims, rather
+than mere qualitative assessments or guesses. For example, instead of
+saying "this method is faster" you would say "this method is 2.6 times
+faster than the generic one on CPU model X", or "this method runs at 123
+GBps"— measure, don't speculate. Finally, strive to make any of your
+results or measurements *reproducible*.
+
+### Organization
+
+You should know how to manage your todo list and notes in order to keep
+track of tasks and to prioritize them.  Depending on the project, we may
+have a shared todo list or a single issue tracker, but you should also
+maintain your own todo list and notes.
+
+Priorizing and scheduling tasks is hard— it's actually proven to be
+NP-hard. I will help you, but it's important that you learn to do it by
+yourself, as you'll be more immersed than me in the project. Factors to
+take into consideration when prioritizing and scheduling tasks include:
+
+* *Hardness*: How much mental and computational effort it takes to
+  complete the task.
+* *Latency*: How long it will take to complete the task.
+* *Uncertainty*: How certain are your estimates of hardness and
+  latency.
+* *Criticality*: Do you need to complete this task before performing
+  any other task on the project, or can it wait?
+* *Motivation*: How excited and motivated are you to work on a task
+   at a given time? Not an excuse to unreasonably delay boring tasks
+   though ;)
+* *Energy*: At what time of day are you the most efficient to perform
+  the hardest tasks? For me it's early in the morning or late at night,
+  so I try to schedule the tasks that need the most focus and effort
+  around those times.
+
+
+### Creativity
+
+Your project will most likely include a research component.  This means
+that you're not here just to execute tasks, but also
+to bring your own ideas regarding the direction and execution of the
+project. 
+Creativity means for example finding different ways to solve a technical
+problem, modifying the goals of the project to more
+interesting|ambitious|original ones, or identifying a vulnerability caused
+by an unexpected usage of a tool.
+Creativity is also about challenging *my* ideas and, even better,
+proving me wrong.
+
+"But I'm not a creative person!"; in our context, creativity is not a
+skill or a character trait, it's a mode of operation. It takes
+curiosity, stubbornness, open-mindedness, and hard work. I'll refer you
+to [John Cleese](TODO: LINK TO VIDEO HERE) for an inspiring description
+of the creativity process. 
+
+
+### No bullshit
+
+"Don’t bullshit yourself or others. Apply brutal honesty and
+transparency to everything you do," to quote from
+[GyShiDo](http://gyshido.com/). Equip yourself with a good bullshit
+detector, you'll need it if you work in cybersecurity.
+Bullshit signs in information security are for example:
+
+* The abuse of the work "cyber."
+* Bad quality writing and visuals.
+* The use of superlatives instead of reliable facts. For example, "our
+  ultra-advanced cyber detection system performs extraordinarily to
+  reach a 200% detection rate of even the most persistent cyber
+  threats."
+* Incorrect use of technical terms, for example confusion between
+  "vulnerability", "exploit", and "malware". 
+* The use and abuse of buzzwords, especially when simplest terms would
+  fit. For example, "secure blockchain-based deep learning". New
+  buzzwords appear regularly.
+* In research papers, signs that correlate positively with bullshit
+  include: an unknown/low-tier university (conversely, papers from
+  places such as MIT or Stanford are very rarely BS), a paper written in
+  Word rather than LaTeX, a low-tier jounral or conference (or no
+  peer-review at all).
+
+If you're not sure, ask me. To learn more about bullshit, read [this
+paper](TODO: LINK TO PAPER ON PSEUDO PROFOUND BS).  
 
 
 ## What you can expect from me
 
-* **Support**: answer questions (see below)
+### Support and availability
 
-* **Flexibility**: adapt topic to something that would be better for you
-  (in terms of learning, efficiency, or career); work from home
+I'll be happy to answer your reasonable questions (see below for
+details), to teach you concepts or tools related to the projects, and
+more generally to have any enlightening discussion. 
 
-* **Honesty**: 
+I will rapidly respond to your requests of questions by email/message at
+any time of day even on week-ends, unless specific event. You can call
+me on my mobile phone too, but for technical discussions I prefer a
+written form because it forces you to write down the question and thus
+think about it. A written response also leaves a trace for further
+reference ("but you told me that, look!").
 
-Some more specific points:
-
-## Communications
-
-Slack convenient
-
-Code: we'll use git, so make sure you're familiar with git before
-starting. Follow best practices.
-
-https://git-scm.com/book/en/v2
+That said, I'll have only limited time so make sure to make good use of
+it :)
 
 
-## Questions
+### Flexibility 
 
-Google, SO; you should know how to search.  I you ask me a question and
-in 10s I find the answer on Google's first page, then I'll feel like
-you're wasting my time.
+If you feel unsatisfied with the work you're doing or if you'd prefer to
+do something a bit different, we'll discuss how to adapt the project to
+a topic that is better for you, in terms of learning, efficiency, or
+career. But that shouldn't be an excuse to avoid the most challenging
+tasks.
 
-
-## Working hours
-
-I don't care about when you work nor about the number of hours you spent
-in front of your computer, I just care about your motivation and
-results.
+I'll also be flexible in terms of working hours. I don't really care
+about when you work nor about the number of hours you spent in front of
+your computer. But I care (in this order) about your motivation, the
+quality of your work, and the amount of work produced. 
 
 You may receive emails from me at night or during week-ends, but that
 does not mean that I want you to also work at those times.
 
 
-## Readings
+### Honesty
 
-books
+Expect me to be honest and no-bullshit, with you and in general. I won't
+tell you that an idea is good if I believe that it's not; I won't let
+you work on something if I believe that you'll be wasting your time or
+that you won't learn anything. 
 
-  <https://en.wikipedia.org/wiki/Flow_(psychology)>
+I'll also be transparent and will share with you all information about
+the project's context and expectations. Likewise, I will most probably
+share parts of your work (code, advancement) with internal experts or
+stakeholders for greater transparency and to receive useful feedback.
 
-from /favorites.html
+
+## Some specific points
+
+### Questions
+
+Don't be lazy: before asking me a question (such as "how to get
+command-line arguments in C?"), try to find the answer by yourself first
+on the usual places (Google, StackOverflow, etc.). This will teach you
+how to search effectively and you'll learn additional things along the
+way. I you ask me a question and in 10 seconds I find the answer on
+Google's first page, then I'll feel like you're wasting my time.
+
+However, there are questions that you *should* ask me directly, because
+you won't easily/quickly find an answer online. For example, highly
+technical questions such as "how secure is the implementation of AES in
+OpenSSL against fault attacks?".
+
+
+### Tools
+
+Feel free to use and propose other tools than the ones I propose. I
+don't care if you use emacs, vi, or MS Word to edit code as long as
+you'll deliver :)
+
+To communicate, we'll probably use Slack. It's way more convenient than
+email for the kind of project we'll do. 
+
+
+### Code
+
+The code you'll write should not only work/compile, it should also be
+safe and follow the best practices and coding conventions for the
+specific language you're using. You should assume that your code 
+will be published and be visible to your peers and future potential
+employers. 
+
+For example, never code a dirty or unsafe workaround thinking "that's
+ok since nobody will read the code". If you have to use such code, add a
+comment highlighting it and justifying it.
+
+To help get higher quality code, use static code analyzers and code
+formatters. For example, pylint and pep8 for Python, gofmt for Go, and
+for C(++), valgrind, flawfinder, clang-format, clang's address
+sanitizer.
+
+Last but not least, we'll use git. Make sure you're familiar with the
+basic commands, in particular with the branching and merging commands
+and their underlying operations. The [Git
+book](https://git-scm.com/book/en/v2) is your friend. Also, we'll try to
+follow best practices as long as it makes sense. For example, working on
+dedicated branches to implement new features and avoid commiting to
+master.
+
+
+### Language
+
+English; be it reports, comments in your code, or variable names. If
+like me your native language is French, online discussions on Slack or
+IRC can be in French. Long emails, however, should be written in English
+in order to be shared, if needed, with non-French speakers.
+
+
+## References
+
+### Readings
+
+* David Rock's book [*Your brain at work*](TODO: AMAZON URL HERE), subtitled
+  *Strategies for Overcoming Distraction, Regaining Focus, and Working
+  Smarter All Day Long*—says it all. Ask me if you want to PDF.
+
+* Richard Hamming's brilliant artcle [*You and your
+  research*](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf).
+
+* Moxie Marlinspike's [career advice
+  post](https://moxie.org/blog/career-advice/).
+
+* CIA's Richard Heuer's classic book [*Psychology of intelligence
+  analysis*](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis)
+
+
+### Quotes
+
+We have a 'strategic' plan. It's called doing things. 
+—Herb Kelleher,
+founder of Southwest Airlines
+
+Blame no one. Expect nothing. Do something. —Bill Parcells, football
+coach
+
+The most successful people are those who are good at plan B. —James
+Yorke, mathematician
+
+When a debater’s point is not impressive, he brings forth many
+arguments. —Talmud
+
+Planning is everything, the plan is nothing —Dwight D. Eisenhower,
+planning expert
 
