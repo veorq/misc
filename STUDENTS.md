@@ -106,7 +106,7 @@ Bullshit signs in information security are for example:
   reach a 200% detection rate of even the most persistent cyber
   threats."
 * Incorrect use of technical terms, for example confusion between
-  "vulnerability", "exploit", and "malware". 
+  "vulnerability", "exploit", and "malware."
 * The use and abuse of buzzwords, especially when simplest terms would
   fit. For example, "secure blockchain-based deep learning". New
   buzzwords appear regularly.
