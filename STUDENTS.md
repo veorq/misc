@@ -130,7 +130,7 @@ I'll be happy to answer your reasonable questions (see below for
 details), to teach you concepts or tools related to the projects, and
 more generally to have any enlightening discussion. 
 
-I will rapidly respond to your requests of questions by email/message at
+I will rapidly respond to your requests or questions by email/message at
 any time of day even on week-ends, unless specific event. You can call
 me on my mobile phone too, but for technical discussions I prefer a
 written form because it forces you to write down the question and thus
@@ -220,7 +220,7 @@ basic commands, in particular with the branching and merging commands
 and their underlying operations. The [Git
 book](https://git-scm.com/book/en/v2) is your friend. Also, we'll try to
 follow best practices as long as it makes sense. For example, working on
-dedicated branches to implement new features and avoid commiting to
+dedicated branches to implement new features and avoid committing to
 master.
 
 
