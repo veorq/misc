@@ -99,7 +99,7 @@ transparency to everything you do," to quote from
 detector, you'll need it if you work in information security.
 Bullshit signs in information security are for example:
 
-* The abuse of the work "cyber."
+* The abuse of the word "cyber."
 * Bad quality writing and visuals.
 * The use of superlatives instead of reliable facts. For example, "our
   ultra-advanced cyber detection system performs extraordinarily to
@@ -253,7 +253,7 @@ Tor (© [@thegrugq](https://medium.com/@thegrugq).)
 * David Rock's book [*Your Brain at
   Work*](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295/), subtitled
   *Strategies for Overcoming Distraction, Regaining Focus, and Working
-  Smarter All Day Long*. Ask me if you want to PDF.
+  Smarter All Day Long*. Ask me if you want the PDF.
 
 * Richard Hamming's brilliant article [*You and Your
   Research*](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf).
