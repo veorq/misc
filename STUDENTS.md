@@ -86,8 +86,8 @@ proving me wrong.
 "But I'm not a creative person!"; in our context, creativity is not a
 skill or a character trait, it's a mode of operation. It takes
 curiosity, stubbornness, open-mindedness, and hard work. I'll refer you
-to [John Cleese](TODO: LINK TO VIDEO HERE) for an inspiring description
-of the creativity process. 
+to [John Cleese](https://www.youtube.com/watch?v=4j-Lz0D5_ck) for an
+inspiring description of the creativity process. 
 
 
 ### No bullshit
@@ -116,7 +116,7 @@ Bullshit signs in information security are for example:
   peer-review at all).
 
 If you're not sure, ask me. To learn more about bullshit, read [this
-paper](TODO: LINK TO PAPER ON PSEUDO PROFOUND BS).  
+paper](http://journal.sjdm.org/15/15923a/jdm15923a.pdf).  
 
 
 ## What you can expect from me
@@ -233,7 +233,8 @@ in order to be shared, if needed, with non-French speakers.
 
 ### Readings
 
-* David Rock's book [*Your brain at work*](TODO: AMAZON URL HERE), subtitled
+* David Rock's book [*Your brain at
+  work*](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295/), subtitled
   *Strategies for Overcoming Distraction, Regaining Focus, and Working
   Smarter All Day Long*—says it all. Ask me if you want to PDF.
 
