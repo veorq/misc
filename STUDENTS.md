@@ -2,8 +2,9 @@
 
 You are a student doing or considering doing a project with me?  Keep
 reading, this document explains what I'll expect from you, what you
-can expect from me, and inspiring references. I wish I got this kind of
-document when I was a student, so I hope it will be useful to you.
+can expect from me, and provides inspiring references. I wish I got this
+kind of document when I was a student, so I hope it will be useful to
+you.
 
 ## What I expect from you
 
