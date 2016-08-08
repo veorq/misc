@@ -11,7 +11,7 @@ you.
 ### Commitment
 
 I expect an interest and attachment for the project you're working on,
-and dedication to deliver quality results. This is more important for
+and *dedication* to deliver quality results. This is more important for
 you than for me, since this project will in part determine the rest of
 your career, and life. If you aren't excited about it every morning or
 if you look forward the end of the day to go have "fun" elsewhere, then
