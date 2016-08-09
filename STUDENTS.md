@@ -4,7 +4,7 @@ You are a student doing or considering doing a project with me?  Keep
 reading, this document explains what I'll expect from you, what you
 can expect from me, and provides inspiring references. I wish I got this
 kind of document when I was a student, so I hope it will be useful to
-you.
+you. 
 
 ## What I expect from you
 
@@ -16,11 +16,6 @@ you than for me, since this project will in part determine the rest of
 your career, and life. If you aren't excited about it every morning or
 if you look forward the end of the day to go have "fun" elsewhere, then
 something's wrong :)
-
-In practice, commitment also means *focus*. You should concentrate on
-the task that you're on and minimize any distractions. For example,
-there shouldn't be Facebook notifications popping up on your screen
-while you're coding.
 
 
 ### Intellectual rigor
@@ -45,10 +40,10 @@ results or measurements *reproducible*.
 
 ### Organization
 
-You should know how to manage your todo list and notes in order to keep
-track of tasks and to prioritize them.  Depending on the project, we may
-have a shared todo list or a single issue tracker, but you should also
-maintain your own todo list and notes.
+I strongly recommend that you use a todo list and notes in order to keep
+track of tasks and to prioritize them. Depending on the project, we may
+have a shared todo list or a single issue tracker, but having your own
+todo list and notes will make your life easier.
 
 Priorizing and scheduling tasks is hard— it's actually proven to be
 NP-hard. I will help you, but it's important that you learn to do it by
@@ -175,17 +170,15 @@ stakeholders for greater transparency and to receive useful feedback.
 
 ### Questions
 
-Don't be lazy: before asking me a question (such as "how to get
+Please don't be lazy: before asking me a question (such as "how to get
 command-line arguments in C?"), try to find the answer by yourself first
-on the usual places (Google, StackOverflow, etc.). This will teach you
-how to search effectively and you'll learn additional things along the
-way. I you ask me a question and in 10 seconds I find the answer on
-Google's first page, then I'll feel like you're wasting my time.
+on the usual places (Google, StackOverflow, etc.). I'd be happy to show
+you tricks to search effectively and quickly spot reliable solutions.
 
-However, there are questions that you *should* ask me directly, because
-you won't easily/quickly find an answer online. For example, highly
-technical questions such as "how secure is the implementation of AES in
-OpenSSL against fault attacks?".
+However, there are many questions that you *should* ask me directly,
+because you won't easily/quickly find an answer online. For example,
+highly technical questions such as "how secure is the implementation of
+AES in OpenSSL against fault attacks?".
 
 
 ### Tools
@@ -213,27 +206,27 @@ comment highlighting it and justifying it.
 To help get higher quality code, use static code analyzers and code
 formatters. For example, pylint and pep8 for Python, gofmt for Go, and
 for C(++), valgrind, flawfinder, clang-format, clang's address
-sanitizer.
+sanitizer, to name but a few.
 
 Last but not least, we'll use git. Make sure you're familiar with the
-basic commands, in particular with the branching and merging commands
-and their underlying operations. The [Git
-book](https://git-scm.com/book/en/v2) is your friend. Also, we'll try to
-follow best practices as long as it makes sense. For example, working on
-dedicated branches to implement new features and avoid committing to
-master.
+basic concepts and commands of git, as described in the [Git
+book](https://git-scm.com/book/en/v2). As you'll find, we'll try to
+follow some [best
+practices](https://sethrobertson.github.io/GitBestPractices/) as long as
+they makes sense in our project.
 
 ### Writing
 
-Write in English; be it reports, comments in your code, or variable names. If
-like me your native language is French, online discussions on Slack or
-IRC can be in French. Long emails, however, should be written in English
-in order to be shared, if needed, with non-French speakers.
+Please write in *English*; be it reports, comments in your code, or
+variable names. If like me your native language is French, online
+discussions on Slack or IRC can be in French. Long emails, however,
+should be written in English in order to be shared, if needed, with
+non-French speakers.
 
-The learn the basics of good writing, read [*The Elements of
+The learn the basics of good writing, I recommend [*The Elements of
 Style*](http://www.crockford.com/wrrrld/style.html). It's a quick and
-easy read, yet a goldmine.
-To further improve your English, read William Zinsser's [*On
+easy read, yet a goldmine.  To further improve your English, check
+William Zinsser's [*On
 Writing
 Well*](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548/),
 another classic. You'll find a PDF
@@ -247,6 +240,8 @@ Tor (© [@thegrugq](https://medium.com/@thegrugq).)
 
 
 ## More references
+
+Here's some references that I like.
 
 ### Readings
 
